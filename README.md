@@ -15,8 +15,8 @@
 ### 1. Клонирование репозитория
 Для начала, клонируйте репозиторий проекта на локальную машину:
 ```bash
-git clone https://github.com/ShiroyashaSG/api_final_yatube.git
-cd api_final_yatube
+git clone https://github.com/ShiroyashaSG/bond_api.git
+cd bond_api
 ```
 
 ### 2. Cоздать и активировать виртуальное окружение:
