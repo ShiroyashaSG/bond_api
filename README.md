@@ -147,3 +147,5 @@ Authorization: Bearer <your_token>
     ∙ Python 3.9.x+
     ∙ Django 3.x+
     ∙ Django REST Framework 3.x+
+
+Проект лицензирован под лицензией MIT.
